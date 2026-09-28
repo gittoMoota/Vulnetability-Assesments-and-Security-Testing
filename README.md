@@ -1,7 +1,7 @@
 # Vulnerability Assessments & Security Testing (Honours Work)
 
 ## 📖 Introduction
-This repository contains practical reports, forensic investigations, and vulnerability assessments completed as part of my Honours in Computer Science at the University of Pretoria. Each report documents methodology, findings, and screenshots as evidence of security testing and digital forensic analysis.  
+This repository contains some practical reports, forensic investigations, and vulnerability assessments completed as part of my Honours COS 720 and COS 783 in Computer Science at the University of Pretoria. Each report documents methodology, findings, and screenshots as evidence of security testing and digital forensic analysis.  
 
 The goal of this repo is to provide a structured archive of academic work demonstrating applied skills in:
 - Vulnerability assessment
